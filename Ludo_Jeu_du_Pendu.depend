@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1511863146 source:c:\users\loïc rubichon\downloads\prog\ludo_jeu_du_pendu\display.c
+
+1511868515 source:c:\users\loïc rubichon\downloads\prog\ludo_jeu_du_pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"main.h"
+	<string.h>
+	"dico.h"
+
+1511868506 c:\users\loïc rubichon\downloads\prog\ludo_jeu_du_pendu\main.h
+
+1511867589 source:c:\users\loïc rubichon\downloads\prog\ludo_jeu_du_pendu\dico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"dico.h"
+
+1511867589 c:\users\loïc rubichon\downloads\prog\ludo_jeu_du_pendu\dico.h
+
